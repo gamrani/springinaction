@@ -1,0 +1,16 @@
+package spring.in.action.Spring.In.Action;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class SpringInActionApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}
